@@ -116,6 +116,11 @@ Final Verdict:
 ```
 
 ---
+## Screen Shot
+---
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3710252f-4c41-458a-84c7-3b24657433a5" />
+
+```
 
 ## 🎯 Use Cases
 
